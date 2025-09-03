@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mayco</h1>
-<h3 align="center">I'm from Argentina, I'm a programming student, and I work as a systems assistant</h3>
+<h3 align="center">From Argentina, programming student, and I currently work as a help desk assistant</h3>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 Currently learning **React JS** and **Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
